@@ -1,1 +1,6 @@
-# clone-instagram-dio
+# Clone Instagram - Dio 
+
+HTML e CSS
+
+Desafio do Bootcamp Santander!
+
