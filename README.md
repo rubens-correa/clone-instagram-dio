@@ -1,6 +1,7 @@
 # Clone Instagram - Dio 
 
-HTML e CSS
+Projeto feito com HTML e CSS.
 
 Desafio do Bootcamp Santander!
+
 
